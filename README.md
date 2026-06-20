@@ -34,9 +34,10 @@ This tool bridges the gap between non-technical users and databases. Instead of 
 ## Project Structure
 
 ```
-├── Streamlit_app.py     # Main Streamlit application
-├── .env                  # Environment variables (not committed to GitHub)
-└── README.md             # Project documentation
+├── Streamlit_app.py         # Main Streamlit application
+├── Natural_language_to_SQL  # Python File without Streamlit
+├── .env                     # Environment variables (not committed to GitHub)
+└── README.md                # Project documentation
 ```
 
 ## Setup & Installation

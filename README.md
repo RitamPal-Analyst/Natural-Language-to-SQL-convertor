@@ -121,7 +121,7 @@ SELECT COUNT(*) FROM customers WHERE Gender = 'Female';
 
 ## Author
 
-**Ritam**
+**Ritam Pal**
 Aspiring Data Analyst | Python · SQL · Power BI · GenAI
 
 ---

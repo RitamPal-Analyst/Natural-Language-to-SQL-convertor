@@ -126,4 +126,3 @@ Python · SQL · Power BI · GenAI
 
 ---
 
-*This project was built as part of a Generative AI + SQL integration exercise at Ivy Pro School.*

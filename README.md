@@ -106,11 +106,14 @@ SELECT COUNT(*) FROM customers WHERE Gender = 'Female';
 
 ## Screenshots
 
-> _Add screenshots of the app here_
+### Database Schema View
+![Schema View](images/schema_view.png)
 
-| Schema View | Query Generation | Results |
-|---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+### Generated SQL Query
+![Query Generation](images/query_generation.png)
+
+### Query Results
+![Results](images/results.png)
 
 ## Future Improvements
 
